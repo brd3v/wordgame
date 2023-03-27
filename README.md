@@ -1,5 +1,34 @@
 # Getting Started with Create React App
 
+
+
+Projeto  para fixação de varios conceitos do React, na proxima atualização vou fazer a logica das palavras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
